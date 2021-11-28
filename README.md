@@ -1,2 +1,2 @@
 # catkin_fati
-contains labs
+This repo contains the files for the Lab
